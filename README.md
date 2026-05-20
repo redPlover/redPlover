@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I'm Honzík, a software engineering student at the University of Waterloo interested in integrated software engineering for robotics applications. I've worked with control theory concepts, such as state-space control, AprilTag localization, and PID loops, and collaborative tools like Github Actions, Git, and Gantt charts. In high school, I organized weekly standups, presented to local industry leaders, and participated in various community outreach events. At University, I'm an Autonomy Lead at [WARG](https://www.uwarg.com/) and am currently working on a bipedal robotics project! I love backpacking, mountain biking, and rock climbing in my free time.
+I'm Honzik, a Software Engineering student at the University of Waterloo, working across UAV autonomy, perception, and controls applications. My recent work spans local-space target localization, heavy-lift UAV system integration, and automating hardware systems. I've worked with control theory concepts, such as state-space control, localization, and PID loops, and collaborative tools like Github Actions, Git, and Gantt charts. I'm currently Autonomy Lead at [WARG](https://www.uwarg.com/). I love backpacking, mountain biking, and rock climbing in my free time.
 
 Check out my website [here](https://honzikschenk.me/)!
